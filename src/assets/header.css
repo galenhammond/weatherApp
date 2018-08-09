@@ -1,0 +1,27 @@
+/* CSS *//
+
+nav {
+	color: black;
+}
+
+ul, li {
+	display: inline-block;
+}
+.buttonHolder {
+	text-align: center;
+	padding: 20px;
+
+}
+
+.weatherData {
+	text-align: center;
+	padding: 30px;
+}
+
+a {
+	color: black;
+}
+
+p {
+	font-family: 'Quicksand';
+}
